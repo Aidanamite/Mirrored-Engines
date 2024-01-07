@@ -1,0 +1,14 @@
+{
+  "name": "Mirrored Engines",
+  "author": "Aidanamite",
+  "description": "Creates mirrored versions of all the engine blocks",
+  "version": "1.0.6",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": true,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/mirrored-engines/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
